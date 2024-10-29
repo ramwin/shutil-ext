@@ -24,7 +24,7 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
-dependencies = []
+dependencies = ["duration2>=0.7.1"]
 
 [project.urls]
 Documentation = "https://github.com/Xiang Wang/shutil-ext#readme"
