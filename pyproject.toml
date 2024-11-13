@@ -59,3 +59,6 @@ exclude_lines = [
   "if __name__ == .__main__.:",
   "if TYPE_CHECKING:",
 ]
+
+[tool.setuptools.package-data]
+shutil_ext = ["src/shutil_ext/py.typed"]
